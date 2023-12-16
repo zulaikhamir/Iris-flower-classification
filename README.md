@@ -1,7 +1,5 @@
 # Iris-flower-classification
-This project focuses on the Iris dataset, a popular dataset in machine learning. The Iris dataset contains measurements of sepal length, sepal width, petal length, and petal width for three species of iris flowers: setosa, versicolor, and virginica.
-
-Here's a brief summary of the project:
+This project focuses on the Iris dataset. The Iris dataset contains measurements of sepal length, sepal width, petal length, and petal width for three species of iris flowers: setosa, versicolor, and virginica.
 
 1. **Data Exploration and Visualization:**
    - The project starts by loading the Iris dataset using Pandas and checking for null values.
